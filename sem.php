@@ -1,0 +1,3 @@
+<?php
+$semestre = 8;
+?>
